@@ -1,5 +1,5 @@
 
-<Version: 1.01>
+<Version: 1.02>
 /data/Actors.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
 /data/Animations.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
 /data/Armors.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
