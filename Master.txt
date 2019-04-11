@@ -1,4 +1,28 @@
 
 <Version: 1.01>
-/data/test.zip https://wordpress.org/latest.zip
+/data/Actors.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/Animations.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/Armors.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/CharacterCreator.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/Classes.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/CommonEvents.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/DataEX.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/DistributionStats.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/Enemies.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/Items.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/Map001.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/Map002.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/Map003.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/Map004.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/Map005.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/Map006.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/MapInfos.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/Notes.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/Skills.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/States.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/System.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/Tilesets.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/Troops.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/Weapons.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
+/data/Windows.json https://drive.google.com/drive/folders/1O4WEerz0YLMBifuz4ZGFSjddGV1CZrh0
 <End of Version>
