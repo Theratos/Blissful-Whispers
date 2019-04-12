@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1080,"scrollY":599},
+{"id":2,"expanded":true,"name":"Eternium Town","order":2,"parentId":1,"scrollX":1080,"scrollY":599},
+{"id":3,"expanded":false,"name":"Quaint House","order":3,"parentId":2,"scrollX":1080,"scrollY":599},
+{"id":4,"expanded":false,"name":"Eternium Way","order":4,"parentId":1,"scrollX":1178.1818181818182,"scrollY":653.4545454545455},
+{"id":5,"expanded":true,"name":"Eternium Forest","order":5,"parentId":1,"scrollX":1239.2727272727273,"scrollY":2700},
+{"id":6,"expanded":false,"name":"Eternium Cave","order":6,"parentId":5,"scrollX":1601.4545454545455,"scrollY":1478.1818181818182}
+]
