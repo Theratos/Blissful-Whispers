@@ -1,4 +1,4 @@
 
-<Version: 1.01>
-\data\Actors.json https://drive.google.com/drive/folders/1Pu474SxMnkERq8opgRxIOp_AKu5Zi9-q
+<Version: 1.02>
+\data\Actors.json https://github.com/Theratos/Blissful-Whispers/
 <End of Version>
