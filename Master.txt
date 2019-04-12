@@ -1,4 +1,4 @@
 
 <Version: 1.02>
-\www\data\Actors.json https://github.com/Theratos/Blissful-Whispers/blob/master/Actors.json
+\data\Actors.json https://github.com/Theratos/Blissful-Whispers/blob/master/Actors.json
 <End of Version>
