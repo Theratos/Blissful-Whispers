@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-/www/data/Actors.json https://drive.google.com/drive/folders/1MPFLa7IycPpo9qgAZ9AyucF4OViLyvrV
+/data/Actors.json https://drive.google.com/drive/folders/1MPFLa7IycPpo9qgAZ9AyucF4OViLyvrV
 <End of Version>
