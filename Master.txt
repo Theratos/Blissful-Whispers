@@ -1,4 +1,1 @@
 
-<Version: 1.06>
-\data\Actors.zip https://drive.google.com/open?id=1UJmqXr4CX8XgUQ6cdbZZAuhssf91hyjC
-<End of Version>
